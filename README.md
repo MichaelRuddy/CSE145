@@ -1,10 +1,19 @@
-# CSE145 Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
-Optimizing Performance and Navigation Accuracy in Triton AI Autonomous Go Kart Racing with
-IMU and GNSS Data Fusion from Hardware Devices
+# Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
+
+## Motivation
+The motivation behind this project stems from the increasing demand for high-speed and high-accuracy data in autonomous vehicles, particularly in the field of autonomous racing. To compete at high speeds and navigate complex race tracks without human intervention, autonomous race cars require robust perception, decision-making, and control capabilities. In order to achieve optimal performance, these vehicles rely on various sensors, including cameras, IMUs, lidar, radar, and GNSS.
+
+The objective of this project is to focus on data fusion, specifically extracting and analyzing IMU and GNSS insights from hardware devices(Point One Navigation Atlas,P1SDK) to enhance the performance and navigation accuracy of Triton AI's autonomous go-karts. The research is centered around Triton AI's three vehicles: a full-size go-kart, a 1/5 scale go-kart, and a 1/10 scale go-kart, which utilize IMU and GNSS data from hardware units provided by Point One Navigation.
+
 Michael P. Ruddy
 Undergraduate Senior, University of California San Diego, mrud2001@gmail.com
 
-[Project Video](https://drive.google.com/file/d/1XMN0SFqJnMZiCo4YY1O-weOlYEP0sotJ/view?usp=sharing) 
+## [Project Showcase](https://drive.google.com/file/d/1XMN0SFqJnMZiCo4YY1O-weOlYEP0sotJ/view?usp=sharing) 
+
+## Documentation
+[Project Report](https://github.com/MichaelRuddy/CSE145/blob/main/Final%20Project%20Report.docx%20(1).pdf) 
+
+
 [Project Report](https://github.com/MichaelRuddy/CSE145/blob/main/Final%20Project%20Report.docx%20(1).pdf) 
 
 This project’s focus was the research and future development of Triton AI’s three vehicles: a full size, 1/5 scale, and 1/10
