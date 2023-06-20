@@ -1,5 +1,4 @@
 <img src="carbanner.jpeg" alt="Top Banner" style="width: 100%; height: auto;">
-<body style="background-color: #f1f1f1; color: #ffffff;">
 # Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
 
 ## Project Team
@@ -52,4 +51,3 @@ important to find out which setup of the resources available would provide the b
 
 [Project Report](https://github.com/MichaelRuddy/CSE145/blob/main/Final%20Project%20Report.docx%20(1).pdf) 
 
-</body>
