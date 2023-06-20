@@ -1,5 +1,4 @@
-# CSE145
-Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
+# CSE145 Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
 Optimizing Performance and Navigation Accuracy in Triton AI Autonomous Go Kart Racing with
 IMU and GNSS Data Fusion from Hardware Devices
 Michael P. Ruddy
