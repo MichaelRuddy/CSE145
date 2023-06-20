@@ -18,8 +18,6 @@ P1SDK unit, which is used in the ⅕ scale kart, to be analyzed and compared wit
 the P1SDK is being utilized only for GNSS data on the ⅕ kart, working in tandem with a separate IMU unit; hence it is
 important to find out which setup of the resources available would provide the best performance and reliability benefits.
 
-CCS CONCEPTS • Hardware → Input devices and sensors • Sensor networks → Sensor data fusion • Robotics
-→ Robot perception and sensing
 
 ## [Project Showcase](https://drive.google.com/file/d/1XMN0SFqJnMZiCo4YY1O-weOlYEP0sotJ/view?usp=sharing) 
 
