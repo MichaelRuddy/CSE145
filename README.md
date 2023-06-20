@@ -1,7 +1,7 @@
 # Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
 
 ## Project Team
-![Project 1](IMG_0677.jpeg)
+<img src="IMG_0677.jpeg" alt="Image" width="300" height="200">
 Michael P. Ruddy
 Undergraduate Senior, University of California San Diego, mrud2001@gmail.com
 
@@ -29,9 +29,10 @@ CCS CONCEPTS • Hardware → Input devices and sensors • Sensor networks → 
 [Fusion Engine Message Documentation](FusionEngine%20Message%20Specification%20v0.17.pdf)
 
 ## Class Materials
-[Project Specification]()
-[Project Update]()
+[Project Specification](Project%20Spec%20CSE%20145%20(1).pdf)
+[Project Update](Oral%20Project%20Update.pptx)
 [Milestone Report](Milestone%20Report%20(1).pdf)
+[Final Presentation](Oral%20Project%20Update%20(1).pdf)
 [Project Report](https://github.com/MichaelRuddy/CSE145/blob/main/Final%20Project%20Report.docx%20(1).pdf) 
 
 
