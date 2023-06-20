@@ -29,6 +29,7 @@ important to find out which setup of the resources available would provide the b
 ## [Project Showcase](https://drive.google.com/file/d/1XMN0SFqJnMZiCo4YY1O-weOlYEP0sotJ/view?usp=sharing) 
 
 ## Documentation
+
 [Atlas Documentation](Atlas+User+Guide+1.5.pdf) 
 
 
