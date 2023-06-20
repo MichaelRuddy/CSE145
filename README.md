@@ -25,13 +25,13 @@ CCS CONCEPTS • Hardware → Input devices and sensors • Sensor networks → 
 
 ## Documentation
 [Atlas Documentation](Atlas+User+Guide+1.5.pdf) 
-[P1SDK Documentation](Point One Standard Dev Kit User Manual.pdf)
-[Fusion Engine Message Documentation](FusionEngine Message Specification v0.17.pdf)
+[P1SDK Documentation](Point%20One%20Standard%20Dev%20Kit%20User%20Manual.pdf)
+[Fusion Engine Message Documentation](FusionEngine%20Message%20Specification%20v0.17.pdf)
 
 ## Class Materials
 [Project Specification]()
 [Project Update]()
-[Milestone Report](Milestone Report (1).pdf)
+[Milestone Report](Milestone%20Report%20(1).pdf)
 [Project Report](https://github.com/MichaelRuddy/CSE145/blob/main/Final%20Project%20Report.docx%20(1).pdf) 
 
 
