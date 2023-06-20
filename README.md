@@ -1,4 +1,5 @@
 <img src="carbanner.jpeg" alt="Top Banner" style="width: 100%; height: auto;">
+
 # Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
 
 ## Project Team
