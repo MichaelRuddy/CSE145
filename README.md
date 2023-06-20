@@ -39,7 +39,7 @@ important to find out which setup of the resources available would provide the b
 [Project Specification](Project%20Spec%20CSE%20145%20(1).pdf)
 
 
-[Project Update](Oral%20Project%20Update.pptx)
+[Project Update](update%20presentation.pdf)
 
 
 [Milestone Report](Milestone%20Report%20(1).pdf)
