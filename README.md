@@ -1,7 +1,7 @@
 # Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
 
 ## Project Team
-<img src="IMG_0677.jpeg" alt="Image" width="300" height="250">
+<img src="IMG_0677.jpeg" alt="Image" width="300" height="250"><br>
 
 
 Michael P. Ruddy
