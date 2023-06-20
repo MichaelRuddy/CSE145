@@ -5,6 +5,7 @@ Michael P. Ruddy
 Undergraduate Senior, University of California San Diego, mrud2001@gmail.com
 
 Project Video: https://drive.google.com/file/d/1XMN0SFqJnMZiCo4YY1O-weOlYEP0sotJ/view?usp=sharing 
+Project Report: https://github.com/MichaelRuddy/CSE145/blob/main/Final%20Project%20Report.docx%20(1).pdf 
 
 This project’s focus was the research and future development of Triton AI’s three vehicles: a full size, 1/5 scale, and 1/10
 scale which rely on IMU and GNSS data from hardware units designed by Point One Navigation. I configured and
