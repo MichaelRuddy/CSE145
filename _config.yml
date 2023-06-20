@@ -1,0 +1,7 @@
+# GitHub Pages Configuration
+
+theme: jekyll-theme-cayman
+
+# Custom Styles
+style:
+  background-color: tan
