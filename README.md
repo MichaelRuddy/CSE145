@@ -1,6 +1,5 @@
-<body style="background-color: #f1f1f1; color: #ffffff;">
 <img src="carbanner.jpeg" alt="Top Banner" style="width: 100%; height: auto;">
-
+<body style="background-color: #f1f1f1; color: #ffffff;">
 # Data Fusion: Extracting IMU and GNSS Insights from Hardware Devices
 
 ## Project Team
