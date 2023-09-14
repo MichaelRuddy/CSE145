@@ -10,7 +10,7 @@ Michael P. Ruddy
 
 Undergraduate Senior, University of California San Diego
 
-mrud2001@gmail.com
+mruddy@ucsd.edu
 
 ## Motivation
 The motivation behind this project stems from the increasing demand for high-speed and high-accuracy data in autonomous vehicles, particularly in the field of autonomous racing. To compete at high speeds and navigate complex race tracks without human intervention, autonomous race cars require robust perception, decision-making, and control capabilities. In order to achieve optimal performance, these vehicles rely on various sensors, including cameras, IMUs, lidar, radar, and GNSS.
